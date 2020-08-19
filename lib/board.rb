@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = ["123456789"]
+board = ["123,456,789"]
